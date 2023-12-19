@@ -14,4 +14,4 @@ The updated portfolio is deployed via GitHub Pages and can be viewed [here](http
 ![Preview](assets/images/readme-preview.png)
 
 ## Placeholder Images
-For this version, placeholder images are sourced from [placehold.co](https://placehold.co/). The background images in the skills section cards were designed by me, created using AI (DALL-E).
+For this portfolio, placeholder images are sourced from [placehold.co](https://placehold.co/). The background images in the skills section cards were designed by me, created using AI (DALL-E).
