@@ -1,4 +1,4 @@
-# Caleb Jordan's Portfolio Page - Bootstrap (Week 3)
+# Caleb Jordan's Portfolio Page - Week 3
 
 ## Overview
 Welcome to the Week 3 update of my portfolio in the front-end web development course. This iteration showcases my growing skills, with a focus on building a Bootstrap-based portfolio.
