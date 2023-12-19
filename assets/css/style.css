@@ -1,0 +1,43 @@
+@media (min-width: 992px) {
+    .navbar-collapse {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.py-5 {
+    padding-top: 1px !important;
+    padding-top: 1px !important;
+}
+
+.avatar {
+    max-height: 300px;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* #skills {
+    margin-top: 50px;
+} */
+
+#skills h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.work-placeholder {
+    margin-top: 5px;
+}
+
+.shadowed-text {
+        text-shadow: 2px 2px 4px #000000;
+    }
+
+    .footer a {
+        color: none !important; /* Normal link color */
+        transition: color 0.3s; /* Smooth transition for the color change */
+    }
+    
+    .footer a:hover {
+        color: blue !important; /* Color of the link when hovered */
+    }
