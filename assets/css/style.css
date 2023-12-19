@@ -1,10 +1,3 @@
-@media (min-width: 992px) {
-    .navbar-collapse {
-        display: flex;
-        justify-content: center;
-    }
-}
-
 .py-5 {
     padding-top: 1px !important;
     padding-top: 1px !important;
@@ -34,10 +27,18 @@
     }
 
     .footer a {
-        color: none !important; /* Normal link color */
-        transition: color 0.3s; /* Smooth transition for the color change */
+        color: none !important;
+        transition: color 0.3s; 
     }
     
     .footer a:hover {
-        color: blue !important; /* Color of the link when hovered */
+        color: blue !important; 
     }
+
+    @media (min-width: 992px) {
+        .navbar-collapse {
+            display: flex;
+            justify-content: center;
+        }
+    }
+    
