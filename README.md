@@ -15,6 +15,3 @@ The updated portfolio is deployed via GitHub Pages and can be viewed [here](http
 
 ## Placeholder Images
 For this version, placeholder images are sourced from [placehold.co](https://placehold.co/). The background images in the skills section cards were designed by me, created using AI (DALL-E).
-
-## Acknowledgements
-Special thanks to everyone supporting and guiding me through this learning journey in the bootcamp.
