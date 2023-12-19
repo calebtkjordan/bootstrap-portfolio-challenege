@@ -11,7 +11,7 @@ Welcome to the Week 3 update of my portfolio in the front-end web development co
 ## Deployment
 The updated portfolio is deployed via GitHub Pages and can be viewed [here](https://calebtkjordan.github.io/bootstrap-portfolio-challenege/).
 
-![Preview](assets/images/preview.png)
+![Preview](assets/images/readme-preview.png)
 
 ## Placeholder Images
 For this version, placeholder images are sourced from [placehold.co](https://placehold.co/). The background images in the skills section cards were designed by me, created using AI (DALL-E).
